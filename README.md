@@ -1,4 +1,10 @@
-### Hi there 👋
+# MotdHS
+Hello! I am MotdHS. I make YouTube videos, and I am bored.
+
+## What will I do here?
+I will probably upload some of my programs/stuffs I made when I am bored.
+
+If that's even going to happen
 
 <!--
 **MotdHS/MotdHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
